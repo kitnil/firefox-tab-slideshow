@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="options.css">
+  </head>
+  <body>
+    <ol>
+      <li>
+        <label id="intervalText"></label>
+        <input type="number" id="interval" min="1" size="3">
+        <label id="secondsText"></label>
+      </li>
+      <li>
+        <label id="orderText"></label>
+        <select id="order">
+          <option id="forward" value="forward"></option>
+          <option id="reverse" value="reverse"></option>
+          <option id="random" value="random"></option>
+        </select>
+      </li>
+      <li>
+        <input type="checkbox" id="reload"><label for="reload" id="reloadText"></label>
+      </li>
+      <li>
+        <input type="checkbox" id="automaticallyStart"><label for="automaticallyStart" id="automaticallyStartText"></label>
+      </li>
+    </ol>
+    <script src="options.js"></script>
+  </body>
+</html>

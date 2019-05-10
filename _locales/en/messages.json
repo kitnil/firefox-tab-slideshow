@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "Tab Slideshow WE"
+    },
+    "extensionDescription": {
+        "message": "Slideshow at tabs."
+    },
+    "browserActionTitle": {
+        "message": "Start Slideshow"
+    },
+    "browserActionTitleRunning": {
+        "message": "Stop Slideshow"
+    },
+    "interval": {
+        "message": "Interval"
+    },
+    "seconds": {
+        "message": "Seconds"
+    },
+    "orderText": {
+        "message": "Order"
+    },
+    "forward": {
+        "message": "Forward"
+    },
+    "reverse": {
+        "message": "Reverse"
+    },
+    "random": {
+        "message": "Random"
+    },
+    "reloadText": {
+        "message": "Reload"
+    },
+    "automaticallyStartText": {
+        "message": "Automatically Start"
+    }
+}

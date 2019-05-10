@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "Tab Slideshow WE"
+    },
+    "extensionDescription": {
+        "message": "タブでスライドショーをします。"
+    },
+    "browserActionTitle": {
+        "message": "スライドショーを開始する"
+    },
+    "browserActionTitleRunning": {
+        "message": "スライドショーを停止する"
+    },
+    "interval": {
+        "message": "間隔"
+    },
+    "seconds": {
+        "message": "秒"
+    },
+    "orderText": {
+        "message": "順番"
+    },
+    "forward": {
+        "message": "次へ"
+    },
+    "reverse": {
+        "message": "前へ"
+    },
+    "random": {
+        "message": "ランダム"
+    },
+    "reloadText": {
+        "message": "再読み込み"
+    },
+    "automaticallyStartText": {
+        "message": "自動的に開始"
+    }
+}

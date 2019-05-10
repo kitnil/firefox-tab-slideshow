@@ -1,0 +1,13 @@
+ol{
+    list-style-type: none;
+    padding: 0;
+}
+#interval{
+    width: 75px;
+}
+#interval, #order, #reload, #automaticallyStart{
+    margin: 6px 3px;
+}
+#reload, #automaticallyStart{
+    vertical-align: middle;
+}

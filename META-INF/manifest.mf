@@ -1,0 +1,68 @@
+Manifest-Version: 1.0
+
+Name: background.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: F5KAHxjyISeA0Xc97983Cg==
+SHA1-Digest: t/oKOnst7cTyxslT4b7PVB+HmZs=
+SHA256-Digest: 8SkLi7Ve9RVDYE26LCBBsIkyPZz2I2g2rd9gZ9LNP9E=
+
+Name: manifest.json
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: p6Tcgd3+J4riQEPOIbsXVw==
+SHA1-Digest: sqGz1koMfbz2VRQbIF8XgfOSCrY=
+SHA256-Digest: 5g2mdkIR0P4eZ9XIpTDGbsmTVob44QVu/+Uc6s2owRc=
+
+Name: _locales/en/messages.json
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: CXvdnUbo0k9KOAO+NasqgA==
+SHA1-Digest: XserrKlFHQxvkBgYel8XErgsroI=
+SHA256-Digest: itYWaQn5Ok1GNQiti48q12lzn4mQGy7TisJXdRLRlb0=
+
+Name: _locales/ja/messages.json
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: MGCuNpKECcdxTY2ajr1YMw==
+SHA1-Digest: 6MJ3Ttgg/v7bzND+BS5yZD4UIzI=
+SHA256-Digest: iTCoG58X4BRIC4n6RfREsudijeIgxuAYBMzmmsGYOTc=
+
+Name: icons/tab-slideshow-we-2-2colors.svg
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: Q++64haYoBnPiXLV6OeVbg==
+SHA1-Digest: YawuSPXej+nr8PpmmIvwddOS7QI=
+SHA256-Digest: MuLHXe6xuJ3gKmrrexh++RhWk+VSJ4X1DcYMmrLxhv0=
+
+Name: icons/tab-slideshow-we-2colors.svg
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: orqeCZI/iqtWqTUotDyfbQ==
+SHA1-Digest: hbvj2OQfQu5yCTMOrxjNz7Hnwyg=
+SHA256-Digest: pCfS32G3P09DQUYZ0TMhWqniv3hobzE0dSu6zcX8E9Q=
+
+Name: icons/tab-slideshow-we-48.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 3SxPjWPUSNHYmh8fC1vt6w==
+SHA1-Digest: 3P5Qz0U2C3RFuxohkTUCARz3g10=
+SHA256-Digest: t8j3RfkxSonFrPsIZ06JRsUCtDFxnRxvCy6TYQ8qU4M=
+
+Name: icons/tab-slideshow-we-96.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: utrfSa0Mf548AJHniSCOfQ==
+SHA1-Digest: /xpUmP4etyfgFkdDaWoN/j9PTLQ=
+SHA256-Digest: KYxbwrdK5Q5i5+sZPkdDxQhui3Sl3WZaPYCsWI6hWA4=
+
+Name: options/options.css
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: rxvTN7pIx3jBkO27joG/Ng==
+SHA1-Digest: XiYOzuRAuFcruY3aCYPmTuw59zY=
+SHA256-Digest: svGcmDAT+zk7Q6RdHXw5TJoEuiAPbMo1LjuImAvqfM4=
+
+Name: options/options.html
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: fvgSG5OIhykaDar7ZWFo/A==
+SHA1-Digest: IdLhx6wZ95SzO7KW2hhGxpFixhw=
+SHA256-Digest: DoAyPCahx8KlMMj3nJQjfVGeBt4C1kzP2V/DNHHnr1I=
+
+Name: options/options.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: SFrzp5rs8C6r0bLQ721CwA==
+SHA1-Digest: 0SEVYwdIBDFWQDC5hzemqlLioII=
+SHA256-Digest: KRl6qEF8Hf5VcZSM7QxHH3JRzZUZ5jD/aoE/hWtFqZc=
+
