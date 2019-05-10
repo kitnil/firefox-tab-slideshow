@@ -30,6 +30,15 @@
 		"page": "options/options.html",
 		"browser_style": true
 	},
-	
+
+	"commands": {
+		"toggle": {
+			"suggested_key": {
+				"default": "Ctrl+Shift+B"
+			},
+			"description": "Toggle addon"
+		}
+	},
+
 	"permissions": ["storage"]
 }

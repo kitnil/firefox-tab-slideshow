@@ -102,6 +102,12 @@ browser.browserAction.onClicked.addListener((tab) => {
 	windowManager(tab.windowId);
 });
 
+browser.commands.onCommand.addListener(function(command) {
+	if (command == "toggle") {
+		windowManager(3);
+	}
+});
+
 function windowsOnRemoved(windowId){
 	for (var i = 0; i < slideshowWindows.length; i++) {
 		if (slideshowWindows[i].id == windowId) {
